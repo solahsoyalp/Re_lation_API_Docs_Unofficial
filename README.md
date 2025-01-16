@@ -104,5 +104,9 @@ https://<subdomain>.relationapp.jp/api/v2/<message_box_id>/
 APIの更新履歴を記録します。
 
 ---
+
+## ライセンス
+このドキュメントは [https://developer.ingage.jp/](https://developer.ingage.jp/) をマークダウンファイルに変更したものです。全ての権利は **株式会社インゲージ** に帰属します。
+
 以上がAPIの概要です。詳細は各APIのエンドポイントを参照してください。
 
