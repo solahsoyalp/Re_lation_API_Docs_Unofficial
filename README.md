@@ -97,6 +97,22 @@ https://<subdomain>.relationapp.jp/api/v2/<message_box_id>/
 ### [ラベル (label)](label_api.md)
 ラベルを管理します。
 
+### [バッジ (badge)](badge_api.md)
+バッジ一覧取得
+
+### [送信メール設定 (mail_account)](mail_account.md)
+送信メール設定
+
+### [メール (mail)](mail_api.md)
+メール送信
+
+### [テンプレート (template)](template_api.md)
+テンプレート一覧取得
+テンプレート検索
+
+### [コメント (comment)](comment_api.md)
+コメント
+
 ### [添付ファイル](attachment_api.md)
 添付ファイルの取得を行います。
 
