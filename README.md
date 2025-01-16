@@ -70,7 +70,7 @@ https://<subdomain>.relationapp.jp/api/v2/<message_box_id>/
 
 ## APIリスト
 
-### [コンタクト (customer)](customer_api.md)
+### [コンタクト (customer)](contact_api.md)
 顧客情報の検索、登録、更新、削除を行います。
 
 ### [アドレス帳 (customer_group)](customer_group_api.md)
