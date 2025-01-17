@@ -1,4 +1,4 @@
-# APIドキュメント
+# Re_lation_API_Docs_Unofficial
 
 このドキュメントでは、各APIの概要、エンドポイント、および認証方法について説明します。
 
@@ -145,7 +145,13 @@ https://<subdomain>.relationapp.jp/api/v2/<message_box_id>/
 | 2024/09/12 | コンタクト検索APIを追加しました。 |
 
 ---
+## 利用方法
 
+1. リポジトリをクローンします。
+   ```bash
+   git clone https://github.com/solahsoyalp/Re_lation_API_Docs_Unofficial.git
+   ```
+2. `docs` フォルダ内の各ファイルを参照してください。
 ## ライセンス
 このドキュメントは [https://developer.ingage.jp/](https://developer.ingage.jp/) をマークダウンファイルに変更したものです。全ての権利は **株式会社インゲージ** に帰属します。
 
